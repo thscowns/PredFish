@@ -1,3 +1,7 @@
 use_columns: 
-  - col1
-  - col2
+  - Length1
+  - Length2
+  - Length3
+
+target:
+  - Weight
